@@ -11,4 +11,4 @@ npm run dev
 
 # This image is shown by opening : http://localhost:3000/
 
-<img src="demo/1.jpg" width="480"> 
+<img src="demo/1.jpeg" width="480"> 
