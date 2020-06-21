@@ -8,14 +8,7 @@ npm install
 npm run dev
 ```
 
-### Desktop (Electron)
 
-To build the desktop application, run:
+# This image is shown by opening : http://localhost:3000/
 
-```shell
-# development build
-npm run dev:electron
-
-# package for release
-npm run package
-```
+<img src="demo/1.jpg" width="480"> 
